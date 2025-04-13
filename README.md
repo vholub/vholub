@@ -14,8 +14,7 @@ My goal is to combine analytical thinking with modern web development to build m
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://herokuapp-hero.herokuapp.com/?user=vholub&show_icons=true&count_private=true)
-![GitHub Streak](https://herokuapp-hero.herokuapp.com?user=vholub&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vholub&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vholub&layout=compact)
 
 ---
