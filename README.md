@@ -18,7 +18,7 @@ My goal is to combine analytical thinking with modern web development to build m
 
 ![Top Langs](https://github-stats-vholubs-projects.vercel.app/api/top-langs/?username=vholub&layout=compact)
 
-<!-- AAA -->
+<!-- A -->
 
 ---
 
