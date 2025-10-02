@@ -7,7 +7,7 @@ I’m a **data analyst** with a strong interest in modern web technologies. Whil
 - ⚛️ React.js
 - 🐍 Python
 - 🌐 Django
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="20"/> .NET (C#)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="20"/> C#
 
 My goal is to combine analytical thinking with modern web development to build meaningful tools, dashboards, and applications.
 
