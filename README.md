@@ -15,11 +15,7 @@ My goal is to combine analytical thinking with modern web development to build m
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vholub&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<!-- ![Top Langs](https://github-stats-vholubs-projects.vercel.app/api/top-langs/?username=vholub&layout=compact) -->
-
-<!-- A -->
+![Metrics](https://github.com/VÁŠ_GITHUB_USERNAME/VÁŠ_GITHUB_USERNAME/blob/main/github-metrics.svg)
 
 ---
 
