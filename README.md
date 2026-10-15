@@ -13,10 +13,4 @@ My goal is to combine analytical thinking with modern web development to build m
 
 ---
 
-## 📊 GitHub Stats
-
-![Metrics](https://github.com/vholub/vholub/blob/main/github-metrics.svg)
-
----
-
 Thanks!
