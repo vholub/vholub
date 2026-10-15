@@ -13,4 +13,8 @@ My goal is to combine analytical thinking with modern web development to build m
 
 ---
 
+![Languages](languages.svg)
+
+---
+
 Thanks!
