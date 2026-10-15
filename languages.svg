@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="230" viewBox="0 0 495 230">
+<style>
+:root{--bg:#ffffff;--fg:#1f2328;--muted:#59636e;--border:#d1d9e0}
+@media (prefers-color-scheme: dark){:root{--bg:#0d1117;--fg:#f0f6fc;--muted:#9198a1;--border:#3d444d}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;font-size:13px}
+.title{font-size:16px;font-weight:600;fill:var(--fg)}
+.label{fill:var(--fg)}
+.muted{fill:var(--muted)}
+</style>
+<defs><clipPath id="bar"><rect x="25" y="55" width="445" height="8" rx="4"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="494" height="229" rx="6" fill="var(--bg)" stroke="var(--border)"/>
+<text x="25" y="35" class="title">Most used languages</text>
+<g clip-path="url(#bar)"><rect x="25.00" y="55" width="135.42" height="8" fill="#3178c6"/><rect x="160.42" y="55" width="112.99" height="8" fill="#3572A5"/><rect x="273.41" y="55" width="61.57" height="8" fill="#ff5a03"/><rect x="334.98" y="55" width="36.63" height="8" fill="#F05138"/><rect x="371.61" y="55" width="28.19" height="8" fill="#f1e05a"/><rect x="399.80" y="55" width="18.96" height="8" fill="#c6538c"/><rect x="418.76" y="55" width="16.23" height="8" fill="#663399"/><rect x="434.99" y="55" width="11.42" height="8" fill="#7355dd"/><rect x="446.41" y="55" width="23.59" height="8" fill="#8b949e"/></g>
+<circle cx="30.00" cy="96" r="5" fill="#3178c6"/><text x="43.00" y="100" class="label">TypeScript</text><text x="227.50" y="100" class="muted" text-anchor="end">30.4%</text><circle cx="252.50" cy="96" r="5" fill="#3572A5"/><text x="265.50" y="100" class="label">Python</text><text x="450.00" y="100" class="muted" text-anchor="end">25.4%</text><circle cx="30.00" cy="120" r="5" fill="#ff5a03"/><text x="43.00" y="124" class="label">Astro</text><text x="227.50" y="124" class="muted" text-anchor="end">13.8%</text><circle cx="252.50" cy="120" r="5" fill="#F05138"/><text x="265.50" y="124" class="label">Swift</text><text x="450.00" y="124" class="muted" text-anchor="end">8.2%</text><circle cx="30.00" cy="144" r="5" fill="#f1e05a"/><text x="43.00" y="148" class="label">JavaScript</text><text x="227.50" y="148" class="muted" text-anchor="end">6.3%</text><circle cx="252.50" cy="144" r="5" fill="#c6538c"/><text x="265.50" y="148" class="label">SCSS</text><text x="450.00" y="148" class="muted" text-anchor="end">4.3%</text><circle cx="30.00" cy="168" r="5" fill="#663399"/><text x="43.00" y="172" class="label">CSS</text><text x="227.50" y="172" class="muted" text-anchor="end">3.6%</text><circle cx="252.50" cy="168" r="5" fill="#7355dd"/><text x="265.50" y="172" class="label">C#</text><text x="450.00" y="172" class="muted" text-anchor="end">2.6%</text><circle cx="30.00" cy="192" r="5" fill="#8b949e"/><text x="43.00" y="196" class="label">Other</text><text x="227.50" y="196" class="muted" text-anchor="end">5.3%</text>
+</svg>
